@@ -12,7 +12,7 @@ ingress:
 image:
   repository: neonlabsorg/proxy
   pullPolicy: Always
-  tag: "v0.11.2"
+  tag: "v1.11.3"
 
 resources:
   requests:
